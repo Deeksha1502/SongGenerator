@@ -1,9 +1,7 @@
 # SongGenerator
->*A C program that creates a playlist of songs based on a number using:*
+>*A C program that creates a playlist of songs based on a number using Hashing and Linked lists*
 >
->Hashing and
->
->Linked lists
+>*3rd Semester DSA mini project*
 >
 >*Screenshots of the program:*
 
